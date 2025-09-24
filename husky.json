@@ -5,7 +5,7 @@
             "oem": "Google",
             "device": "Pixel 8 Pro",
             "filename": "crDroidAndroid-16.0-20250924-husky-v12.1.zip",
-            "download": "https://jacoa-ota.duckdns.org/crdroid/crDroidAndroid-16.0-20250924-husky-v12.1.zip",
+            "download": "https://github.com/JacoaFur/ota/releases/download/v1/crDroidAndroid-16.0-20250924-husky-v12.1.zip",
             "timestamp": 1758729590,
             "md5": "f88dd76fcf5c5d641662e92114f58b7a",
             "sha256": "687be2853793314d61b93eefd6afcf5e802d3b9d240234bfa5ac8b7e3e86d064",
