@@ -1,0 +1,27 @@
+{
+    "response": [
+        {
+            "maintainer": "Jacoa",
+            "oem": "Google",
+            "device": "Pixel 8a",
+            "filename": "crDroidAndroid-16.0-20250924-akita-v12.1.zip",
+            "download": "https://github.com/JacoaFur/ota/releases/download/20250924/crDroidAndroid-16.0-20250924-akita-v12.1.zip",
+            "timestamp": 1758751845,
+            "md5": "1227afed8daa39ee06222222e18fb8e8",
+            "sha256": "1e8f5ac5681c71f57cff48fdb9698884c221c4b1afed564107d1d6d67f76e014",
+            "size": 1677957466,
+            "version": "12.1",
+            "buildtype": "Unofficial",
+            "gapps": "https://nikgapps.com/ionutgherman",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "https://sourceforge.net/projects/crdroid/files/akita/12.x/recovery",
+            "paypal": "https://paypal.me/jasonls221",
+            "telegram": "https://t.me/jacoa",
+            "dt": "https://github.com/crdroidandroid/android_device_google_akita",
+            "common-dt": "https://github.com/crdroidandroid/android_device_google_zuma",
+            "kernel": "https://github.com/crdroidandroid/android_device_google_akita-kernels"
+        }
+    ]
+}
