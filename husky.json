@@ -1,0 +1,27 @@
+{
+    "response": [
+        {
+            "maintainer": "Jacoa",
+            "oem": "Google",
+            "device": "Pixel 8 Pro",
+            "filename": "crDroidAndroid-16.0-20250924-husky-v12.1.zip",
+            "download": "https://jacoa-ota.duckdns.org/crdroid/crDroidAndroid-16.0-20250924-husky-v12.1.zip",
+            "timestamp": 1758729590,
+            "md5": "f88dd76fcf5c5d641662e92114f58b7a",
+            "sha256": "687be2853793314d61b93eefd6afcf5e802d3b9d240234bfa5ac8b7e3e86d064",
+            "size": 1694146346,
+            "version": "12.1",
+            "buildtype": "Unofficial",
+            "gapps": "https://nikgapps.com/ionutgherman",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "https://drive.google.com/drive/folders/1_EtKIl5Ypya1irSBYkgCXj2P8lvH8VRA",
+            "paypal": "https://paypal.me/jasonls221",
+            "telegram": "https://t.me/jacoa",
+            "dt": "https://github.com/crdroidandroid/android_device_google_shusky",
+            "common-dt": "https://github.com/crdroidandroid/android_device_google_zuma",
+            "kernel": "https://github.com/crdroidandroid/android_device_google_shusky-kernels"
+        }
+    ]
+}
