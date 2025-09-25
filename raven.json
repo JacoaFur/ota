@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "maintainer": "Jacoa",
+            "oem": "Google",
+            "device": "Pixel 6 Pro",
+            "filename": "crDroidAndroid-16.0-20250924-raven-v12.1.zip",
+            "download": "https://github.com/JacoaFur/ota/releases/download/20250924/crDroidAndroid-16.0-20250924-raven-v12.1.zip",
+            "timestamp": 1758754050,
+            "md5": "54cbb7d4aed55cdc1d5c28b50f53a6c0",
+            "sha256": "1117c939cc0dc6bfb90b21c7810f62bc322b4268c40d105a323337304e7fbe8d",
+            "size": 1501481633,
+            "version": "12.1",
+            "buildtype": "Unofficial",
+            "forum": "",
+            "gapps": "https://nikgapps.com/ionutgherman",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "https://drive.google.com/file/d/1yst9_UT4ashl5wH2FwiJXQH8Al4uwSQw",
+            "paypal": "https://paypal.me/jasonls221",
+            "telegram": "https://t.me/jacoa",
+            "dt": "https://github.com/crdroidandroid/android_device_google_raviole",
+            "common-dt": "https://github.com/crdroidandroid/android_device_google_gs101",
+            "kernel": "https://github.com/crdroidandroid/android_device_google_raviole-kernels_6.1"
+        }
+    ]
+}
