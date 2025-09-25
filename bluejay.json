@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "maintainer": "Jacoa",
+            "oem": "Google",
+            "device": "Pixel 6a",
+            "filename": "crDroidAndroid-16.0-20250924-bluejay-v12.1.zip",
+            "download": "https://github.com/JacoaFur/ota/releases/download/20250924/crDroidAndroid-16.0-20250924-bluejay-v12.1.zip/download",
+            "timestamp": 1758764269,
+            "md5": "615c55cf1d78230537bea3f5c0cf8c2d",
+            "sha256": "6fd44c95a4b07bd75957717757ee8ef63369357ada9482e090af590f664e36f8",
+            "size": 1500227549,
+            "version": "12.1",
+            "buildtype": "Unofficial",
+            "forum": "",
+            "gapps": "https://nikgapps.com/ionutgherman",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "https://drive.google.com/file/d/18z7wDl4UQrLpBSGQ3R6i4jyVNCcByNy8",
+            "paypal": "https://paypal.me/jasonls221",
+            "telegram": "https://t.me/jacoa",
+            "dt": "https://github.com/LineageOS/android_device_google_bluejay",
+            "common-dt": "https://github.com/crdroidandroid/android_device_google_gs101",
+            "kernel": "https://android.googlesource.com/device/google/bluejay-kernels/6.1"
+        }
+    ]
+}
