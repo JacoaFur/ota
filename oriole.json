@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "maintainer": "Jacoa",
+            "oem": "Google",
+            "device": "Pixel 6",
+            "filename": "crDroidAndroid-16.0-20250924-oriole-v12.1.zip",
+            "download": "https://github.com/JacoaFur/ota/releases/download/20250924/crDroidAndroid-16.0-20250924-oriole-v12.1.zip",
+            "timestamp": 1758762778,
+            "md5": "36724e8c668d305f0f679dafe404545e",
+            "sha256": "c1ea84ad098a9405fe9a77b206047a49a4db55dc46dbbe9cbea890691a89640a",
+            "size": 1499449277,
+            "version": "12.1",
+            "buildtype": "Unofficial",
+            "forum": "",
+            "gapps": "https://nikgapps.com/ionutgherman",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "https://drive.google.com/file/d/1yst9_UT4ashl5wH2FwiJXQH8Al4uwSQw",
+            "paypal": "https://paypal.me/jasonls221",
+            "telegram": "https://t.me/jacoa",
+            "dt": "https://github.com/crdroidandroid/android_device_google_raviole",
+            "common-dt": "https://github.com/crdroidandroid/android_device_google_gs101",
+            "kernel": "https://github.com/crdroidandroid/android_device_google_raviole-kernels_6.1"
+        }
+    ]
+}
