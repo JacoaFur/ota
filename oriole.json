@@ -4,12 +4,12 @@
             "maintainer": "Jacoa",
             "oem": "Google",
             "device": "Pixel 6",
-            "filename": "crDroidAndroid-16.0-20251021-oriole-v12.2.zip",
-            "download": "https://github.com/JacoaFur/ota/releases/download/20251020/crDroidAndroid-16.0-20251021-oriole-v12.2.zip",
-            "timestamp": 1761049371,
-            "md5": "bd6041848140d157dd3c441b6c7c429c",
-            "sha256": "4faaae94d2258a396ad2e60a39e974355199b1ad9dc03eba12ff429524ccade0",
-            "size": 1503151077,
+            "filename": "crDroidAndroid-16.0-20251031-oriole-v12.2.zip",
+            "download": "https://github.com/JacoaFur/ota/releases/download/20251031/crDroidAndroid-16.0-20251031-oriole-v12.2.zip",
+            "timestamp": 1761920278,
+            "md5": "48af0a8aaf8923110dcf37ad7b24d5bf",
+            "sha256": "090e9851a1e88324bccfa91b6abc00bb7079c9c7b7d3c9bc5d38c89e25e066d4",
+            "size": 1501976951,
             "version": "12.2",
             "buildtype": "Unofficial",
             "forum": "",
@@ -17,12 +17,12 @@
             "firmware": "",
             "modem": "",
             "bootloader": "",
-            "recovery": "https://drive.google.com/file/d/1pMTjpDQpxirVpKqtZ91RHZD-xd2MoYl5",
+            "recovery": "https://drive.google.com/file/d/1XZMSTr3-HeuL52A_GUe9iAH2LKszHXfK",
             "paypal": "",
             "telegram": "https://t.me/jacoa",
             "dt": "https://github.com/LineageOS/android_device_google_raviole",
             "common-dt": "https://github.com/LineageOS/android_device_google_gs101",
-            "kernel": "https://android.googlesource.com/device/google/raviole-kernels/6.1"
+            "kernel": "https://github.com/LineageOS/android_device_google_raviole-kernels"
         }
     ]
 }

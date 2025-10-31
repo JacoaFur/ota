@@ -4,12 +4,12 @@
             "maintainer": "Jacoa",
             "oem": "Google",
             "device": "Pixel 6a",
-            "filename": "crDroidAndroid-16.0-20251021-bluejay-v12.2.zip",
-            "download": "https://github.com/JacoaFur/ota/releases/download/20251020/crDroidAndroid-16.0-20251021-bluejay-v12.2.zip",
-            "timestamp": 1761050446,
-            "md5": "372afae128cb925d1ef6caf486b28a43",
-            "sha256": "e091a4d14d33c6f0e7fc23daeda191f8e5c7ae1b9c0ac506b79049307d5ae14b",
-            "size": 1503699974,
+            "filename": "crDroidAndroid-16.0-20251031-bluejay-v12.2.zip",
+            "download": "https://github.com/JacoaFur/ota/releases/download/20251031/crDroidAndroid-16.0-20251031-bluejay-v12.2.zip",
+            "timestamp": 1761921854,
+            "md5": "d6da08b27e3d765978de31c91053a53c",
+            "sha256": "d2ff769fe8e42110385d8f55bab4449d0db5838b18854152afa380ac351ded3a",
+            "size": 1502145400,
             "version": "12.2",
             "buildtype": "Unofficial",
             "forum": "",
@@ -17,12 +17,12 @@
             "firmware": "",
             "modem": "",
             "bootloader": "",
-            "recovery": "https://drive.google.com/file/d/1-KIhTkk1vGrFhbui2mb-mmZeXROiEm9g",
+            "recovery": "https://drive.google.com/file/d/1a2Lu4IpLy2INAXHckUqQjUiH3USDHw65",
             "paypal": "",
             "telegram": "https://t.me/jacoa",
             "dt": "https://github.com/LineageOS/android_device_google_bluejay",
             "common-dt": "https://github.com/LineageOS/android_device_google_gs101",
-            "kernel": "https://android.googlesource.com/device/google/bluejay-kernels/6.1"
+            "kernel": "https://github.com/LineageOS/android_device_google_bluejay-kernels"
         }
     ]
 }

@@ -4,12 +4,12 @@
             "maintainer": "Jacoa",
             "oem": "Google",
             "device": "Pixel 8a",
-            "filename": "crDroidAndroid-16.0-20251020-akita-v12.2.zip",
-            "download": "https://github.com/JacoaFur/ota/releases/download/20251020/crDroidAndroid-16.0-20251020-akita-v12.2.zip",
-            "timestamp": 1761016625,
-            "md5": "5f567e6a463d078e97116f36f4205a84",
-            "sha256": "3c978e220c19cc62d3dd954df5fbd89283cbda3d35dd3eb2dea7127dfcbf64bc",
-            "size": 1577037815,
+            "filename": "crDroidAndroid-16.0-20251031-akita-v12.2.zip",
+            "download": "https://github.com/JacoaFur/ota/releases/download/20251031/crDroidAndroid-16.0-20251031-akita-v12.2.zip",
+            "timestamp": 1761909336,
+            "md5": "02a62488324fd17181f841994c7547fd",
+            "sha256": "e0f3d94cfd7db2026e808d94bc6918571e1e9d0b8950dda4947c5df85d226c0e",
+            "size": 1554270746,
             "version": "12.2",
             "buildtype": "Unofficial",
             "forum": "",
@@ -17,12 +17,12 @@
             "firmware": "",
             "modem": "",
             "bootloader": "",
-            "recovery": "https://drive.google.com/file/d/16caR-gPCy2Y_FuRVP4ZzL_DjczHIv_WY",
+            "recovery": "https://drive.google.com/file/d/1BGVCPDoKPGt2xqI-d3ptvhtCE0Sqdw3K",
             "paypal": "",
             "telegram": "https://t.me/jacoa",
             "dt": "https://github.com/LineageOS/android_device_google_akita",
             "common-dt": "https://github.com/LineageOS/android_device_google_zuma",
-            "kernel": "https://android.googlesource.com/device/google/akita-kernels/6.1"
+            "kernel": "https://github.com/LineageOS/android_device_google_akita-kernels"
         }
     ]
 }

@@ -4,12 +4,12 @@
             "maintainer": "Jacoa",
             "oem": "Google",
             "device": "Pixel 8",
-            "filename": "crDroidAndroid-16.0-20251020-shiba-v12.2.zip",
-            "download": "https://github.com/JacoaFur/ota/releases/download/20251020/crDroidAndroid-16.0-20251020-shiba-v12.2.zip",
-            "timestamp": 1761015762,
-            "md5": "f56968bdf0edd6a213bbda6a26517fc5",
-            "sha256": "687c6b45b156c003411c2e767f2a20bbeee7e1d880b36f600b4b11903e5a1d9f",
-            "size": 1586847756,
+            "filename": "crDroidAndroid-16.0-20251031-shiba-v12.2.zip",
+            "download": "https://github.com/JacoaFur/ota/releases/download/20251031/crDroidAndroid-16.0-20251031-shiba-v12.2.zip",
+            "timestamp": 1761907741,
+            "md5": "b8256684a32846affe35af5836972c78",
+            "sha256": "7c1b07a350053af4fed79b4aa1e4d1199bd65f803a23146cc65aea1b922738a0",
+            "size": 1563224159,
             "version": "12.2",
             "buildtype": "Unofficial",
             "forum": "",
@@ -17,12 +17,12 @@
             "firmware": "",
             "modem": "",
             "bootloader": "",
-            "recovery": "https://drive.google.com/file/d/1s2QGYeM6zZjiJ-WTY6f3k5FdCFUk_9QK",
+            "recovery": "https://drive.google.com/file/d/1WsFuWivvS9uyf6YYxPGHJnG7kO4FUAU3",
             "paypal": "",
             "telegram": "https://t.me/jacoa",
             "dt": "https://github.com/LineageOS/android_device_google_shusky",
             "common-dt": "https://github.com/LineageOS/android_device_google_zuma",
-            "kernel": "https://android.googlesource.com/device/google/shusky-kernels/6.1"
+            "kernel": "https://github.com/LineageOS/android_device_google_shusky-kernels"
         }
     ]
 }
