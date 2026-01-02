@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "maintainer": "Jacoa",
+            "oem": "Google",
+            "device": "Pixel Fold",
+            "filename": "crDroidAndroid-16.0-20260102-felix-v12.5.zip",
+            "download": "https://github.com/JacoaFur/ota/releases/download/20260102/crDroidAndroid-16.0-20260102-felix-v12.5.zip",
+            "timestamp": 1767362377,
+            "md5": "219c60d17166b65e30335b66fdab4111",
+            "sha256": "747116f6ec18a4f22250f05178dd7b2b368c719e45913cff99ead50862403e34",
+            "size": 1568570095,
+            "version": "12.5",
+            "buildtype": "Unofficial",
+            "forum": "",
+            "gapps": "https://nikgapps.com/ionutgherman",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "https://drive.google.com/file/d/1g-KMMtKe0s0_vVtqp5glhilJpCncZJql",
+            "paypal": "",
+            "telegram": "https://t.me/jacoa",
+            "dt": "https://github.com/LineageOS/android_device_google_felix",
+            "common-dt": "https://github.com/LineageOS/android_device_google_gs201",
+            "kernel": "https://github.com/LineageOS/android_device_google_felix-kernels"
+        }
+    ]
+}
